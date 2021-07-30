@@ -1,0 +1,19 @@
+C:\Users\hp\source\repos\Uranium Playout\Uranium Playout\bin\Debug\Uranium Playout.exe.config
+C:\Users\hp\source\repos\Uranium Playout\Uranium Playout\bin\Debug\Uranium Playout.exe
+C:\Users\hp\source\repos\Uranium Playout\Uranium Playout\bin\Debug\Uranium Playout.pdb
+C:\Users\hp\source\repos\Uranium Playout\Uranium Playout\obj\Debug\Uranium_Playout.Form1.resources
+C:\Users\hp\source\repos\Uranium Playout\Uranium Playout\obj\Debug\Uranium_Playout.Properties.Resources.resources
+C:\Users\hp\source\repos\Uranium Playout\Uranium Playout\obj\Debug\Uranium Playout.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Uranium Playout\Uranium Playout\obj\Debug\Uranium Playout.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Uranium Playout\Uranium Playout\obj\Debug\Uranium Playout.exe
+C:\Users\hp\source\repos\Uranium Playout\Uranium Playout\obj\Debug\Uranium Playout.pdb
+C:\Users\hp\source\repos\Uranium Playout\Uranium Playout\obj\Debug\Uranium_Playout.StudioF.resources
+C:\Users\hp\source\repos\Uranium Playout\Uranium Playout\obj\Debug\Uranium_Playout.Uraniumvideo.resources
+C:\Users\hp\source\repos\Uranium Playout\Uranium Playout\bin\Debug\Interop.WMPLib.dll
+C:\Users\hp\source\repos\Uranium Playout\Uranium Playout\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\source\repos\Uranium Playout\Uranium Playout\obj\Debug\Interop.WMPLib.dll
+C:\Users\hp\source\repos\Uranium Playout\Uranium Playout\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\source\repos\Uranium Playout\Uranium Playout\obj\Debug\Uranium Playout.csproj.ResolveComReference.cache
+C:\Users\hp\source\repos\Uranium Playout\Uranium Playout\obj\Debug\Uranium_Playout.Alertbox.resources
+C:\Users\hp\source\repos\Uranium Playout\Uranium Playout\obj\Debug\Uranium_Playout.alertt.resources
+C:\Users\hp\source\repos\Uranium Playout\Uranium Playout\obj\Debug\Uranium Playout.csprojAssemblyReference.cache
