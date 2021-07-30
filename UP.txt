@@ -1,0 +1,5 @@
+Obs gibi yayın programlarıyla birlikte çalışabilecek bir yayın programı. 
+Oynatma listesini yayındayken bile düzenleyebilirsiniz. 
+Yayın penceresini 2. bir monitöre yerleştirip obs üzerinden onu internette yayına alabilirsiniz.
+
+Program konumu: up\Uranium Playout\Uranium Playout\bin\Debug\Uranium Playout.exe
